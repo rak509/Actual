@@ -76,4 +76,4 @@ if AUTO_DELETE == "True":
 
 #Sample
 SHORTNER_SITE = "instantlinks.in"
-SHORTNER_API = "6e7cecc691aa5ecbf827623bf6cf5519687c0534"
+SHORTNER_API = "4a67fc94c5e0d9ac7300c146a84a98a7e65d71c9"
